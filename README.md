@@ -1,6 +1,6 @@
 
 
-# Proloogic Assignment #1
+# Prolog Assignment #1
 
 ### I have uploaded a *.pl file in the repo. 
 ***
