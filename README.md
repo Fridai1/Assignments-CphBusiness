@@ -6,7 +6,7 @@
 ***
 in this assignment i have chosen to create a relation between students, their classes, rooms and when their classes start.
 
-To run the program, you need (Prolog)[https://www.swi-prolog.org/]
+To run the program, you need [Prolog](https://www.swi-prolog.org/)
 
 ***
 after installation
