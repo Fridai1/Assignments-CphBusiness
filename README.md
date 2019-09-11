@@ -1,16 +1,11 @@
-# Assignments-CphBusiness
-
-### This is the base branch for all assignments. If you find yourself here, please refere to the branches for the relevant assignment. Or Pick one of the below.
+# This contains the Assignment to create a P2P connection between a server and a client.
+***
+### the Client loads data from a json file, and has basic info about the clients, it can ask the server for futher information about their bank details, and withdraw or deposit into their accounts.
 
 ***
 
-__Table of Contents__
+### the Server processes the clients requests and sends back the correct information regarding the client.
 
-* __Solutions__
-  * _Descrete math_
-    * [Prologic](https://github.com/Fridai1/Assignments-CphBusiness/blob/DiscreteMath-Prologic%231)
-  * _System Integration_
-    * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/blob/RMI(GRPC)-C%23)
 
 
 
