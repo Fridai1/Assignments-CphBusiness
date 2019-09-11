@@ -1,0 +1,2 @@
+obj\Debug/Student.cs \
+obj\Debug/StudentGrpc.cs: Student.proto
