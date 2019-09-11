@@ -12,6 +12,7 @@ __Table of Contents__
   * _System Integration_
     * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/blob/RMI(GRPC)-C%23)
     * [Bank Assignemnt](https://github.com/Fridai1/Assignments-CphBusiness/tree/Bank-Assignment)
+    * [Image sender & reciever](https://github.com/Fridai1/Assignments-CphBusiness/tree/Image-Sender/reciever)
 
 
 
