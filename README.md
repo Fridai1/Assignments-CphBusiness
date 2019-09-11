@@ -1,17 +1,6 @@
-# Assignments-CphBusiness
-
-### This is the base branch for all assignments. If you find yourself here, please refere to the branches for the relevant assignment. Or Pick one of the below.
-
+# In this assignment i had to create another P2P client-server program.
 ***
-
-__Table of Contents__
-
-* __Solutions__
-  * _Descrete math_
-    * [Prologic](https://github.com/Fridai1/Assignments-CphBusiness/blob/DiscreteMath-Prologic%231)
-  * _System Integration_
-    * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/blob/RMI(GRPC)-C%23)
-    * [Bank Assignemnt](https://github.com/Fridai1/Assignments-CphBusiness/tree/Bank-Assignment)
+### this time it had to be able to send a picture over UDP, to do this i had the client take a little screenshot and send the bytes over the connection, the server would then reconstruct the image and show it on a GUI.
 
 
 
