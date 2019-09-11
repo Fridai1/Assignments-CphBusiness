@@ -6,10 +6,10 @@
 
 __Table of Contents__
 
-* Solutions
-  * Descrete math
+* __Solutions__
+  * _Descrete math_
     * [Prologic](https://github.com/Fridai1/Assignments-CphBusiness/blob/DiscreteMath-Prologic%231)
-  * System Integration
+  * _System Integration_
     * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/blob/RMI(GRPC)-C%23)
 
 
