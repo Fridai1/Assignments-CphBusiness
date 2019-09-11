@@ -9,7 +9,7 @@ in this assignment i have chosen to create a relation between students, their cl
 To run the program, you need [Prolog](https://www.swi-prolog.org/)
 
 ***
-after installation
+__after installation__
 1. Navigate to the folder with the script
 2. run Swipl in your commandline program if you have installed it to path, if not run prologics own software.
 3. run consult('StudentRelations.pl').
