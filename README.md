@@ -1,3 +1,3 @@
-# Assignments-CphBusiness
-
-# This is the base branch for all assignments. If you find yourself here, please refere to the branches for the relevant assignment.
+# RMI/RPC 
+## Created with [GRPC](https://grpc.io/), in C#
+### GRPC is an alternative to traditional RMI/RPC on java, GRPC works with many languages.
