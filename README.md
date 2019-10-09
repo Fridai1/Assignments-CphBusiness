@@ -1,18 +1,13 @@
 # Assignments-CphBusiness
 
-### This is the base branch for all assignments. If you find yourself here, please refere to the branches for the relevant assignment. Or Pick one of the below.
+## This branch contains 2 files, an image of my BPMN diagram, and an XML file of the same diagram.
 
 ***
+### the diagram was created with the following references:
 
-__Table of Contents__
+* https://www.visual-paradigm.com/guide/bpmn/bpmn-activity-types-explained/
+* http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf
 
-* __Solutions__
-  * _Descrete math_
-    * [Prologic](https://github.com/Fridai1/Assignments-CphBusiness/tree/DiscreteMath-Prologic%231)
-  * _System Integration_
-    * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/tree/RMI(GRPC)-C%23)
-    * [Bank Assignemnt](https://github.com/Fridai1/Assignments-CphBusiness/tree/Bank-Assignment)
-    * [Image sender & reciever](https://github.com/Fridai1/Assignments-CphBusiness/tree/Image-Sender/reciever)
-
+I used the following story as my reference: [Assigment H](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Sessions/Week40/Assignments/Travel%20Booking%20H.pdf)
 
 
