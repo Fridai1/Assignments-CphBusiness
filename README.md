@@ -13,6 +13,7 @@ __Table of Contents__
     * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/tree/RMI(GRPC)-C%23)
     * [Bank Assignemnt](https://github.com/Fridai1/Assignments-CphBusiness/tree/Bank-Assignment)
     * [Image sender & reciever](https://github.com/Fridai1/Assignments-CphBusiness/tree/Image-Sender/reciever)
+    * [BPMN diagram](https://github.com/Fridai1/Assignments-CphBusiness/tree/BPMN)
 
 
 
