@@ -1,19 +1,37 @@
 # Assignments-CphBusiness
 
-### This is the base branch for all assignments. If you find yourself here, please refere to the branches for the relevant assignment. Or Pick one of the below.
+### This is assignment 7 design by contract.
 
 ***
+ we have written a small and simple console application that utilizes design by contract. 
+ The program does so through the namespace **System.Diagnostics.Contracts**
+ 
+ this allows us to use among others, the require and ensure methods. That way we have created a class that uses code contracts.
+ 
+ ***
+ So get the contracts to work, you need an application first this can be downloaded from [here](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.CodeContractsforNET)
+ 
+ Installing this enables your visual studio to work with code contracts.
 
-__Table of Contents__
+***
+All relevant contract code can be found in the Bank.cs file.
+we utilize the Bank.cs file in the Program.cs file.
 
-* __Solutions__
-  * _Descrete math_
-    * [Prologic](https://github.com/Fridai1/Assignments-CphBusiness/tree/DiscreteMath-Prologic%231)
-  * _System Integration_
-    * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/tree/RMI(GRPC)-C%23)
-    * [Bank Assignemnt](https://github.com/Fridai1/Assignments-CphBusiness/tree/Bank-Assignment)
-    * [Image sender & reciever](https://github.com/Fridai1/Assignments-CphBusiness/tree/Image-Sender/reciever)
-    * [BPMN diagram](https://github.com/Fridai1/Assignments-CphBusiness/tree/BPMN)
+*** 
+**In the deposit method we have included 2 contracts:**
+one contract to check if the amount to be deposited is above 0.
+one to ensure the balance is correct after the deposit has gone through.
+
+**in the withdraw method, we have included 3 contracts:**
+one contract to check if the amount to be withdrawn is above 0.
+one contract that requires the balance to be more or equal to the withdrawn amount.
+one that ensures that the correct amount is left on the balance after the withdrawel.
+
+
+Group members:
+Nikolai Christiansen
+Nikolaj Jensen
+
 
 
 
