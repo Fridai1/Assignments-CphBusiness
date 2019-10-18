@@ -20,7 +20,7 @@ namespace Assignment_7
         public double Withdraw(double amount)
         {
             Contract.Requires(amount > 0);
-            Contract.Requires(_accountBalance - amount > 0);
+            Contract.Requires(_accountBalance >= amount);
             Contract.Ensures(_accountBalance == _accountBalance - amount);
             _accountBalance -= amount;
             return _accountBalance;
