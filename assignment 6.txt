@@ -1,0 +1,21 @@
+DEF x: integer
+DEF z: integer
+IF (Y<30) {
+	LET X = 300
+}
+
+LET Y = Y + X
+
+IF (Y>=330)
+{LET X = x + 2000}
+
+IF (Y<X)
+{
+	LET X = Y) 
+}
+
+IF(x<z)
+{
+	Y = x - 5
+}
+
