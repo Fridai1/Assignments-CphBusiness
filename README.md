@@ -1,8 +1,9 @@
 # Assignments-CphBusiness
 
 ## This Assignment is about message brokers.
+### I have created this with Nikolaj Jensen - a flight booking system.
 ***
-### I have created with Nikolaj Jensen a flight booking system.
+
 
 there are two projects a producer and a consumer.
 
