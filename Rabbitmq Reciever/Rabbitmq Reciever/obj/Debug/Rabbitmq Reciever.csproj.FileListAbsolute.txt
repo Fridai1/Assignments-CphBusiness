@@ -1,0 +1,10 @@
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\Rabbitmq Reciever.exe.config
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\Rabbitmq Reciever.exe
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\Rabbitmq Reciever.pdb
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\RabbitMQ.Client.dll
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\bin\Debug\RabbitMQ.Client.xml
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\obj\Debug\Rabbitmq Reciever.csproj.CopyComplete
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\obj\Debug\Rabbitmq Reciever.exe
+D:\Code\Rabbitmq Reciever\Rabbitmq Reciever\obj\Debug\Rabbitmq Reciever.pdb

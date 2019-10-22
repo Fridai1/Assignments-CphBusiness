@@ -1,0 +1,9 @@
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\bin\Debug\RabbitMqTutorials.exe.config
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\bin\Debug\RabbitMqTutorials.exe
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\bin\Debug\RabbitMqTutorials.pdb
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\bin\Debug\RabbitMQ.Client.dll
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\bin\Debug\RabbitMQ.Client.xml
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\obj\Debug\RabbitMqTutorials.csproj.CopyComplete
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\obj\Debug\RabbitMqTutorials.exe
+D:\Code\RabbitMqTutorials\RabbitMqTutorials\obj\Debug\RabbitMqTutorials.pdb
