@@ -1,0 +1,6 @@
+C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\bin\Debug\LetterFrequency.exe.config
+C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\bin\Debug\LetterFrequency.exe
+C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\bin\Debug\LetterFrequency.pdb
+C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.exe
+C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.pdb
