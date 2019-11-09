@@ -1,19 +1,8 @@
 # Assignments-CphBusiness
 
-### This is the base branch for all assignments. If you find yourself here, please refere to the branches for the relevant assignment. Or Pick one of the below.
+### This Assignment was originally in Java, but due to various errors and my limited knownledge of Java, i have decided to port it to C#, as best as i can.
 
 ***
 
-__Table of Contents__
-
-* __Solutions__
-  * _Descrete math_
-    * [Prologic](https://github.com/Fridai1/Assignments-CphBusiness/tree/DiscreteMath-Prologic%231)
-  * _System Integration_
-    * [RMI/GRPC](https://github.com/Fridai1/Assignments-CphBusiness/tree/RMI(GRPC)-C%23)
-    * [Bank Assignemnt](https://github.com/Fridai1/Assignments-CphBusiness/tree/Bank-Assignment)
-    * [Image sender & reciever](https://github.com/Fridai1/Assignments-CphBusiness/tree/Image-Sender/reciever)
-    * [BPMN diagram](https://github.com/Fridai1/Assignments-CphBusiness/tree/BPMN)
-
-
+Now my initial issue is that the program has superp performance, that is to say it completes with a tally of each letters concurrence in a split second. I find that trivial to improve, while there are multiple small tweaks i could perform to improve the performance, i wont have anyway to measure any real impact, if any.
 
