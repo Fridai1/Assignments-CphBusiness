@@ -13,12 +13,14 @@ namespace LetterFrequency
         public static Stopwatch time = new Stopwatch();
         static void Main(string[] args)
         {
+            //Console.WriteLine("press any key to start");
+            //Console.ReadLine();
+            time.Start();
             Dictionary<char, int> freq = new Dictionary<char, int>();
             string fileName =
                 "C:\\Users\\nikol\\OneDrive\\Documents\\Code\\LetterFrequency\\LetterFrequency\\FoundationSeries.txt";
             TallyChars(fileName,freq);
             PrintTally(freq);
-            time.Start();
         }
 
         public static void TallyChars(string filePath, Dictionary<char, int> freq)
@@ -42,6 +44,7 @@ namespace LetterFrequency
 
         }
 
+
         public static void PrintTally(Dictionary<char,int> freq)
         {
             Dictionary<char, int> upperLower = new Dictionary<char, int>();
@@ -60,7 +63,6 @@ namespace LetterFrequency
             }
 
             Console.WriteLine("it took: " + time.Elapsed);
-            Console.ReadLine();
         }
     }
 }
