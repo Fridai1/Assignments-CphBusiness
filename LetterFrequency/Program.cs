@@ -44,13 +44,17 @@ namespace LetterFrequency
 
         public static void PrintTally(Dictionary<char,int> freq)
         {
-            Dictionary<char,int> upperLower = new Dictionary<char, int>();
+            Dictionary<char, int> upperLower = new Dictionary<char, int>();
             for (char c = 'A'; c <= 'Z'; c++)
             {
                 upperLower.Add(c, freq[c] + freq[Char.ToLower(c)]);
             }
 
-            foreach (var c in upperLower)
+            List<KeyValuePair<char, int>> sorted = upperLower.ToList();
+
+            sorted.Sort((pair1, pair2) => pair1.Value.CompareTo(pair2.Value));
+
+            foreach (var c in sorted)
             {
                 Console.WriteLine($"{c.Key} represented {c.Value} times");
             }
