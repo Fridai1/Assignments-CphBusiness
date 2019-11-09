@@ -4,3 +4,13 @@ C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\bin\Debug
 C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.csprojAssemblyReference.cache
 C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.exe
 C:\Users\nikol\OneDrive\Documents\Code\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.pdb
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\bin\Debug\LetterFrequency.exe.config
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\bin\Debug\LetterFrequency.exe.manifest
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\bin\Debug\LetterFrequency.application
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\bin\Debug\LetterFrequency.exe
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\bin\Debug\LetterFrequency.pdb
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\obj\Debug\LetterFrequency.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\obj\Debug\LetterFrequency.exe.manifest
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\obj\Debug\LetterFrequency.application
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\obj\Debug\LetterFrequency.exe
+C:\Users\nikol\OneDrive\Documents\Code\Assignments-CphBusiness\LetterFrequency\obj\Debug\LetterFrequency.pdb
