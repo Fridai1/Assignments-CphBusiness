@@ -6,7 +6,7 @@
 ## *_About the Authors_*
 _Nikolai Christiansen_ : **Computer Science degree**
 
-_Nijolaj Dyring_ : **Computer Science degree**
+_Nikolaj Dyring_ : **Computer Science degree**
 
 _Mikkel Ertbjerg_ : **Computer Science degree**
 
