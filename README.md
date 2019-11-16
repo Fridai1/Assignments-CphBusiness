@@ -4,11 +4,11 @@
 
 
 ## *_About the Authors_*
-_Nikolai Christiansen_ : `Computer science degree`
+_Nikolai Christiansen_ : *Computerscience degree*
 
-_Nijolaj Dyring_ : `Computer science degree`
+_Nijolaj Dyring_ : *Computerscience degree*
 
-_Mikkel Ertbjerg_ : `Computer science degree`
+_Mikkel Ertbjerg_ : *Computerscience degree*
 
 
 ***
