@@ -2,19 +2,24 @@
 
 # Ufo Assignment 3
 
-***
+
 ## *_About the Authors_*
+_Nikolai Christiansen_ : `Computer science degree`
+
+_Nijolaj Dyring_ : `Computer science degree`
+
+_Mikkel Ertbjerg_ : `Computer science degree`
 
 
 ***
 
-I propose that the futher away a client is from the server, the longer response time we will experience.
+We propose that the futher away a client is from the server, the longer response time we will experience.
 
-To see if I can find a correlation between distance and response time, I will measure the delay of me sending a message and recieving a response back from a server. I will meassure servers in a incrementing distance of 100 km, with copenhagen as a base location.
+To see if we can find a correlation between distance and response time, we will measure the delay of me sending a message and recieving a response back from a server. We will meassure servers in a incrementing distance of 100 km, with copenhagen as a base location.
 
-It is not feasible for me to find servers for every 100 km of distance by myself, so I will this website to help me [Wondernetwork](https://wondernetwork.com/pings/copenhagen).
+It is not feasible for me to find servers for every 100 km of distance by myself, so we will this website to help me [Wondernetwork](https://wondernetwork.com/pings/copenhagen).
 
-I have worked out a diagram with the help of the above website:
+We have worked out a diagram with the help of the above website:
 ![](sadPanda.png)
 
 ## conclusion
@@ -28,7 +33,14 @@ These measurements are taken in the morning in primarily european countries, whe
 
 Ideally we would run similair tests in the US and in Asia where our customers experienced problems. 
 
+***
 
+## Sources:
+_Info Regarding Locations and ms_
+https://wondernetwork.com/pings/copenhagen
+
+_The document produced by us, specifically for this assignment_
+https://docs.google.com/spreadsheets/d/1Cckkn3j-covNmQrfB391VplmquqHSBuOibejpMHypFw/edit?usp=sharing
 
 
 
