@@ -17,7 +17,7 @@ We propose that the futher away a client is from the server, the longer response
 
 To see if we can find a correlation between distance and response time, we will measure the delay of me sending a message and recieving a response back from a server. We will meassure servers in a incrementing distance of 100 km, with copenhagen as a base location.
 
-It is not feasible for me to find servers for every 100 km of distance by myself, so we will this website to help me [Wondernetwork](https://wondernetwork.com/pings/copenhagen).
+It is not feasible for me to find servers for every 100 km of distance by myself, so we will use this website to help [Wondernetwork](https://wondernetwork.com/pings/copenhagen).
 
 We have worked out a diagram with the help of the above website:
 ![](sadPanda.png)
